@@ -15,3 +15,5 @@ out
 
 .class
 pom.xml.versionsBackup
+/.gradle/
+/build/
